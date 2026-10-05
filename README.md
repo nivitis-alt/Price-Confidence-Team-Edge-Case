@@ -6,7 +6,7 @@ Team Edge Case, IIT Roorkee. Meesho DICE Challenge S3 (pricing case).
 
 ## Demo video
 
-[![Price Confidence demo video on Loom](https://cdn.loom.com/sessions/thumbnails/c300fa0f2e26450d9860fd87da4de9cf-with-play.gif)](https://www.loom.com/share/c300fa0f2e26450d9860fd87da4de9cf)
+[![Price Confidence demo video on Loom](https://cdn.loom.com/sessions/thumbnails/c300fa0f2e26450d9860fd87da4de9cf-be38ea801024f347.gif)](https://www.loom.com/share/c300fa0f2e26450d9860fd87da4de9cf)
 
 Watch on Loom: https://www.loom.com/share/c300fa0f2e26450d9860fd87da4de9cf
 
